@@ -16,3 +16,4 @@ Enable all API libraries
 
 - Kubernetes Engine API
 - Cintainer Registry API
+- IAM API
