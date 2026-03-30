@@ -198,7 +198,7 @@ In GitHub:
 Open this in your browser:
 
 ```text
-http://YOUR_EC2_PUBLIC_IP:8501
+http://34.205.139.54:8501
 ```
 
 ## 9. If something fails
